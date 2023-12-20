@@ -137,7 +137,7 @@ export const myProjects = [
   {
     title: "Invite Wedding v2 - WebApp",
     description:
-      "TThis is a Web Wedding version 2 and own fiture mp3, O'clock, Maps, Save date, gallery photo, animation loading dll.",
+      "TThis is a Web Wedding version 2 and own fiture mp3, O'clock, Maps, Save date, gallery photo, animation loading, Footer dll.",
     image: "project-11.png",
     link: "https://iegcodeweddingv2.vercel.app/",
     git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%20Elbran%20👋🏻%20,%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Paket%20Invite%20Wedding%20v2%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga,%20fitur%20yang%20termasuk,%20dan%20proses%20kerjanya?%20%0A%0ATerima%20kasih!",
